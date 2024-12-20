@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link rel="stylesheet" href="../style/portfolio_style.css">
+</head>
+<body>
+    <header>
+        <div class="topnav">
+            <a href="../../portfolio_homepage.html">Home</a>
+            <a href= "photography.html">Photography</a>
+            <a href= "projects.html">Projects</a>
+            <a href= "portfolio_about_me.html">About Me</a>
+            <a href="portfolio_contact.html" class="active">Contact Me</a>
+          </div>
+       
+          
+          <div class="toggle-container">
+            <input type="checkbox" id="darkModeToggle" onclick="toggleDarkMode()">
+            <label for="darkModeToggle" class="slider"></label>
+        </div>
+       
+    </header>
+
+    <main>
+        <section>
+            <h1 id="pageHeader">Contact Me</h1>
+            <div class="container">
+                <form action="https://api.web3forms.com/submit" method="POST">
+                    <input type="hidden" name="access_key" value="bc3a2461-42b2-463f-8899-64fbd23086c3">
+
+                    <input type="text" name="name" required placeholder="Your name..">
+                    <input type="email" name="email" required placeholder="Your email..">
+                    <textarea name="message" required placeholder="Write something.."></textarea>
+                    <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+              
+                  <input type="submit" value="Submit">
+              <!--I used this website to make my contact page work https://web3forms.com/-->
+                </form>
+
+                
+             </div>
+            
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer">
+        <p>&copy; 2024 Kiera O'Hara. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="../script/portfolio_script.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography</title>
+    <link rel="stylesheet" href="../style/portfolio_style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+    <header>
+        <div class="topnav">
+            <a href="../../portfolio_homepage.html" >Home</a>
+            <a href= "photography.html" class="active">Photography</a>
+            <a href="projects.html" >Projects</a>
+            <a href="portfolio_about_me.html">About Me</a>
+            <a href="portfolio_contact.html">Contact Me</a>
+        </div>
+        <div class="toggle-container">
+            <input type="checkbox" id="darkModeToggle" onclick="toggleDarkMode()">
+            <label for="darkModeToggle" class="slider"></label>
+        </div>
+    </header>
+
+    <main>
+        <h1>My Photos</h1>
+        <p>Photography has been a hobby of mine for quite a while. I enjoy taking photos of nature, cityscapes, and my friends and family. Many of my photos are taken during my travels or my everyday life. I enjoy both digital and film photography, and have recently begun developing my own film in the darkroom, which I find gives me an exciting new sense of control over my photos.</p>
+        
+        <!-- Container for dynamically loaded collections -->
+        <div id="collections-container"></div>
+    
+
+
+    </main>
+    
+    <footer>
+        <div class="footer">
+            <p>&copy; 2024 Kiera O'Hara. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="../script/portfolio_script.js"></script>
+</body>
+</html>

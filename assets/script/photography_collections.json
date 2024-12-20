@@ -1,0 +1,68 @@
+[
+    {
+      "name": "France on Film",
+      "images": [
+        {
+          "src": "photos/eiffel2",
+          "alt": "View from underneath the Eiffel Tower, Paris",
+          "caption": "View from Below, Paris, 2024, 35mm film"
+        },
+        {
+          "src": "photos/castle_france4",
+          "alt": "Château d'Azay-le-Rideau, France",
+          "caption": "Château d'Azay-le-Rideau, France, 2024, 35mm film"
+        },
+
+        {
+            "src": "photos/castle_france5",
+            "alt": "Château d'Azay-le-Rideau, France",
+            "caption": "Château d'Azay-le-Rideau, France, 2024, 35mm film"
+          },
+        {
+          "src": "photos/france_fountain.jpg",
+          "alt": "Fountain in France",
+          "caption": "Fountain in Paris, France, 2024, 35mm film"
+        }
+      ]
+    },
+    {
+      "name": "Dublin in Black and White",
+      "images": [
+        {
+          "src": "images/city1.jpg",
+          "alt": "Busy street in the city center",
+          "caption": "The hustle and bustle of city life"
+        },
+        {
+          "src": "images/city2.jpg",
+          "alt": "Skyline of the city at night",
+          "caption": "City lights illuminate the skyline at night"
+        },
+        {
+          "src": "images/city3.jpg",
+          "alt": "Architectural details of a skyscraper",
+          "caption": "A modern skyscraper in the city"
+        }
+      ]
+    },
+    {
+      "name": "Abstract Collection",
+      "images": [
+        {
+          "src": "images/abstract1.jpg",
+          "alt": "Colorful abstract shapes",
+          "caption": "Bold colors and shapes create a dynamic composition"
+        },
+        {
+          "src": "images/abstract2.jpg",
+          "alt": "Abstract swirls of color",
+          "caption": "A swirl of colors creates a sense of movement"
+        },
+        {
+          "src": "images/abstract3.jpg",
+          "alt": "Geometric patterns in black and white",
+          "caption": "Geometric simplicity in black and white"
+        }
+      ]
+    }
+  ]

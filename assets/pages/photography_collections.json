@@ -1,0 +1,168 @@
+[
+    {
+      "name": "France on Film",
+      "images": [
+        {
+          "src": "../../../photos/eiffel2.jpg",
+          "alt": "View from underneath the Eiffel Tower, Paris",
+          "caption": "View from Below, Paris, 2024, 35mm film"
+        },
+        {
+          "src": "../../../photos/castle_france4.jpg",
+          "alt": "Château d'Azay-le-Rideau, France",
+          "caption": "Château d'Azay-le-Rideau, France, 2024, 35mm film"
+        },
+        {
+          "src": "../../../photos/castle_france5.jpg",
+          "alt": "Château d'Azay-le-Rideau, France",
+          "caption": "Château d'Azay-le-Rideau, France, 2024, 35mm film"
+        },
+        {
+          "src": "../../../photos/france_fountain.jpg",
+          "alt": "Fountain in France",
+          "caption": "Fountain in Paris, France, 2024, 35mm film"
+        },
+        {
+            "src": "../../../photos/castle_france2.jpg",
+            "alt": "Château de Chambord, France",
+            "caption": "Tower of Château de Chambord, 2024, 35mm Film"
+          },
+          {
+            "src": "../../../photos/castle_france1.jpg",
+            "alt": "Château de Chambord, France",
+            "caption": "Tower of Château de Chambord, 2024, 35mm Film"
+          },
+          {
+            "src": "../../../photos/castle_france3.jpg",
+            "alt": "Château de Chenonceau, France",
+            "caption": "Château de Chenonceau, France, 2024, 35mm Film"
+          },
+          {
+            "src": "../../../photos/pond_france.jpg",
+            "alt": "Gazebo centered in a pond with green water.",
+            "caption": "Château de Vaux-le-Vicomte, 2024, 35mm Film"
+          },
+          {
+            "src": "../../../photos/france st 2.jpg",
+            "alt": "Pont de Bir-Hakeim, Paris",
+            "caption": "Pont de Bir-Hakeim, Paris, France, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/montemartre1.jpg",
+            "alt": "Montemartre, Paris",
+            "caption": "Montemartre, Paris, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/montemartre2.jpg",
+            "alt": "Montemartre, Paris",
+            "caption": "Montemartre, Paris, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/car at montemart.jpg",
+            "alt": "Car at Montemartre, Paris",
+            "caption": "Car at Montemartre, France, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/france_st.jpg",
+            "alt": "View of Pont de Bir-Hakeim, Paris",
+            "caption": "View of Pont de Bir-Hakeim, Paris, 2024, 35mm film"
+          }
+      ]
+    },
+    {
+      "name": "Dublin in Black and White",
+      "images": [
+        {
+          "src": "../../../photos/beachview_bw.jpg",
+          "alt": "View of Dublin from Seaside",
+          "caption": "View of Dublin from the Seaside, Dublin, 2024, B&W 35mm film"
+        },
+        {
+          "src": "../../../photos/churchgate_bw.jpg",
+          "alt": "close up photo of a church gate in black and white",
+          "caption": "Church Gate, Dublin, 2024, B&W 35mm film"
+        },
+        {
+            "src": "../../../photos/dubbuilding_bw.jpg",
+            "alt": "buildings along the Liffey in Dublin",
+            "caption": "View from a Bench, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/liffey_bw.jpg",
+            "alt": "view of the Liffey river from O'connell bridge",
+            "caption": "View from the bridge, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/pigeons_bw.jpg",
+            "alt": "man surrounded by a flock of pigeons on a city street.",
+            "caption": "Pigeon Man, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/grafton_bw.jpg",
+            "alt": "Corner of Grafton street in Dublin, featuring a man surrounded by pigeons",
+            "caption": "Grafton Street, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/seawswim_bw.jpg",
+            "alt": "Two women pose in bathing suits in front of the sea. They are smiling.",
+            "caption": "Fancy a Swim?, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/teatime_bw.jpg",
+            "alt": "close up photo of a table with a tea pot and teacups on it",
+            "caption": "Teatime, Dublin, 2024, B&W 35mm film"
+          },
+          {
+            "src": "../../../photos/wintertree_bw.jpg",
+            "alt": "photo of trees in black and white against a bright sky",
+            "caption": "Winter Trees, Dublin, 2024, B&W 35mm film"
+          },
+        {
+          "src": "../../../photos/fortyfoot_bw.jpg",
+          "alt": "Photo of a seaside swimming hole in black and white",
+          "caption": "The Forty Foot, Dublin, 2024, B&W 35mm film"
+        }
+      ]
+    },
+    {
+      "name": "Sparetime in San Francisco",
+      "images": [
+        {
+          "src": "../../../photos/sf_film1.jpg",
+          "alt": "Man walking downhill with a cityscape near the seaside",
+          "caption": "Northbeach, San Francisco, 2024, 35mm film"
+        },
+        {
+          "src": "../../../photos/sf_film2.jpg",
+          "alt": "View of water with the Golden Gate Bridge visible in the distance",
+          "caption": "View from Lands End, San Francisco, 2024, 35mm film"
+        },
+        {
+            "src": "../../../photos/sf_film4.jpg",
+            "alt": "Two women smile in front of tree covered hill",
+            "caption": "Kathleen and Moira, San Francisco, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/sf_film5.jpg",
+            "alt": "A woman smiles with a concert playing in the background",
+            "caption": "Moira at Stern Grove, San Francisco, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/chinatown_film.jpg",
+            "alt": "View of the street in China Town, featuring colorful lanterns and dragon and lion dancers",
+            "caption": "Chinatown, San Francisco, 2024, 35mm film"
+          },
+          {
+            "src": "../../../photos/lillypad.jpg",
+            "alt": "Close up of lillypads in Golden Gate Park",
+            "caption": "Lillypads, San Francisco, 2024, 35mm film"
+          },
+        {
+          "src": "../../../photos/sf_film6.jpg",
+          "alt": "A photo of a womans face with the sun shining on it and her long hair dangling down.",
+          "caption": "Moira in the Sun, San Francisco, 2024, 35mm film"
+        }
+      ]
+    }
+  ]
+  

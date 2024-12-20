@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiera OHara Portfolio</title>
+    <link rel="stylesheet" href="assets/style/portfolio_style.css">
+    <script src="assets/script/cookies_script.js"></script>
+   
+</head>
+<body>
+    <header>
+        
+        <div class="topnav">
+            <a href="portfolio_homepage.html" class="active">Home</a>
+            <a href= "assets/pages/photography.html">Photography</a>
+            <a href= "assets/pages/projects.html">Projects</a>
+            <a href= "assets/pages/portfolio_about_me.html">About Me</a>
+            <a href="assets/pages/portfolio_contact.html">Contact Me</a>
+          </div>
+
+          <div class="toggle-container">
+            <input type="checkbox" id="darkModeToggle" onclick="toggleDarkMode()">
+            <label for="darkModeToggle" class="slider"></label>
+        </div>
+          
+    </header>
+
+    <main>
+        <section>
+            <h1 id="pageHeader">Kiera O'Hara</h1>
+
+            <div id="cookie-popup" class="cookie-popup">
+                <p>This website uses cookies to ensure you get the best experience.</p>
+                <button id="accept-cookies" class="cookie-btn">Accept</button>
+              </div>
+
+            <div class="homemain">
+                <img src="assets/images/lourvepic.jpg" alt="Picture of Kiera" class="home_image">
+               <div class="hometext">
+            <p>Hi! I'm Kiera. I am a Master’s student at Trinity College Dublin, studying Interactive Digital Media. With a background in journalism, writing, and editing, I am now making the transition to focus on UX design. I am passionate about blending functionality with creativity to make meaningful digital experiences. Explore this portfolio to see some of my previous projects in web development, design, and interactive media.
+                <div class="btn-container">
+                    <button class = "btn" onclick=" window.open('assets/documents/OHaraCV24.pdf')"> Check my CV</button>
+               
+                <a target="_blank" href="https://www.linkedin.com/in/kiera-o-5051441b0"> <img src="assets/images/linkedinicon.svg" alt="linked in icon"></a>
+                <a target="_blank" href="https://github.com/Liffey24"> <img src="assets/images/githublogo.svg" alt="github icon"></a>  </div>
+<!-- I used this website for the icons for linkedin and githubhttps://www.svgrepo.com/ -->            
+                </div>
+      </div>
+            
+        </section>
+    </main>
+ <!-- animation for bottom of page -->
+  
+
+    <footer>
+        <div class="footer">
+        <p>&copy; 2024 Kiera O'Hara. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <script src="assets/script/portfolio_script.js"></script>
+   </body>
+</html>
